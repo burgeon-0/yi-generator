@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>org.burgeon.yi</groupId>
+    <groupId>org.bg181.yi</groupId>
     <artifactId>yi-generator</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
